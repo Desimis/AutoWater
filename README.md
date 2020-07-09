@@ -1,6 +1,6 @@
 # Auto Water
 
-The initial goal of Auto Water is to automate watering of plants utilizing moisture sensors and ultrasonic sensors.
+The initial goal of Auto Water is to automate watering of plants utilizing moisture sensors and ultrasonic sensors. This started off as a quarantine project, and I plan to see it grow!
 
 ## Current State
 
