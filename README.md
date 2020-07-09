@@ -52,3 +52,4 @@ At this point, you should be able to run the script like this:
 3. water.pump_on()
 
 Provided you're all wired up, that should work.
+
