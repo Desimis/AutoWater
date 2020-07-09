@@ -53,3 +53,4 @@ At this point, you should be able to run the script like this:
 
 Provided you're all wired up, that should work.
 
+[![demo.jpg](https://i.postimg.cc/y8LW8vgQ/demo.jpg)](https://postimg.cc/dhTJWR9r)
