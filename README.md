@@ -47,8 +47,8 @@ This command should do the trick:
 python3.4 -m pip install RPi.GPIO
 
 At this point, you should be able to run the script like this:
->python3
->>> import water
->>> water.pump_on()
+1. python3
+2. import water
+3. water.pump_on()
 
 Provided you're all wired up, that should work.
