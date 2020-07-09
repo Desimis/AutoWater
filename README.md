@@ -1,24 +1,24 @@
-#Auto Water
+# Auto Water
 
 The initial goal of Auto Water is to automate watering of plants utilizing moisture sensors and ultrasonic sensors.
 
-#Current State
+## Current State
 
 Currently, you can only turn the pump on and off, I do this remotely from my desktop into the Pi and run my script for testing.
 
-#Next Goal
+## Next Goal
 
 Adding of a breadboard to process the analog output from the current moisture sensor I'm using
 
-#Further Goal
+## Further Goal
 
 Adding of a web interface to manage and track data of the plants
 
-#Final Goal
+## Final Goal
 
 Extending and scaling up the amount of plants to turn this into more of an automated irrigation system based on the needs of the plants
 
-#Materials needed
+## Materials needed
 You will need the following materials to replicate this:
 1. Raspberry Pi 3/4, I'm currently using the Pi 4 Model B
 https://www.pishop.co.za/store/index.php?rt=product/product&product_id=1729
@@ -39,7 +39,7 @@ https://www.robotics.org.za/index.php?route=product/search&search=4%20Channel%20
 
 With regards to the moisture sensor, if you utilize the same as I have, you will require a breadboard/ADC Converter in the future for automation as it does not have a digital output. I would recommend this as an ADC Converter https://www.dfrobot.com/product-1730.html
 
-#Setup
+## Setup
 
 You will need to have a version of python 3 installed and once that is done, you will need to get setup for RPIo
 
